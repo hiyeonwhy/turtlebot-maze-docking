@@ -15,7 +15,7 @@
 ![Build](https://img.shields.io/badge/build-catkin__make-brightgreen)
 ![License](https://img.shields.io/badge/license-TBD-lightgrey)
 
-<sub>자율시스템설계 001분반 팀프로젝트 · **우희연 · 김가현 · 김수언**</sub>
+<sub>자율시스템설계 001분반 팀프로젝트</sub>
 
 </div>
 
